@@ -34,7 +34,8 @@ const Banner = () => {
 
         </div>
       </div>
-    </div>        
+    </div>
+    <div className="bg-gradient-to-r from-sky-600 via-sky-300 to-sky-800 animate-pulse	 w-[100%]  py-[3px] bg"></div>     
     </div>
   )
 }
