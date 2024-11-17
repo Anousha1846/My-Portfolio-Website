@@ -8,7 +8,7 @@ import { TextGenerateEffect } from "../ui/TextGenerateEffectUI"
 const Banner = () => {
   return (
     <div>
-<div className="relative w-full md:h-[585px]  h-[600px]  ">
+<div className="relative w-full h-[585px]    ">
       {/* Background Image */}
       <Image
         src={BannerImg}  
