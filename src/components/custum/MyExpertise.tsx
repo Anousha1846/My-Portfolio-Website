@@ -4,7 +4,7 @@ import { SkillsHover } from "../ui/SkillsHover";
 
 export function MyExpertise() {
   return (
-    <div className="max-w-5xl mx-auto px-8">
+    <div className="max-w-5xl mx-auto sm:px-8 px-2">
       <h1 className="m-4 pt-16 text-sky-900 font-extrabold text-center text-5xl">SKILLS</h1>
       <SkillsHover items={skills} />
     </div>
