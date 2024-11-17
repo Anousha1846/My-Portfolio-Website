@@ -109,26 +109,26 @@ const MyNav = () => {
             <div className="px-2 pt-2 pb-3 mx-auto space-y-1 sm:px-3 ">
               <Link
                 href="/"
-                className=" hover:text-sky-600 mx-auto text-xl text-slate-600 block  hover:bg-slate-300
+                className=" hover:text-sky-600 mx-auto text-base text-slate-600 block  hover:bg-slate-300
                         rounded-lg p-2  "
               >
                 Home
               </Link>
               <Link
                 href="/about"
-                className="hover:text-sky-600 mx-auto  text-xl text-slate-600 block  rounded-lg p-2 hover:bg-slate-300 "
+                className="hover:text-sky-600 mx-auto  text-base text-slate-600 block  rounded-lg p-2 hover:bg-slate-300 "
               >
                 About
               </Link>
               <Link
                 href="/myProjects"
-                className="hover:text-sky-600 text-xl  text-slate-600 block rounded-lg p-2 hover:bg-slate-300"
+                className="hover:text-sky-600 text-base  text-slate-600 block rounded-lg p-2 hover:bg-slate-300"
               >
                 Projects
               </Link>
               <Link
                 href="/contact"
-                className="hover:text-sky-600  text-xl text-slate-600 block rounded-lg p-2 hover:bg-slate-300"
+                className="hover:text-sky-600  text-base text-slate-600 block rounded-lg p-2 hover:bg-slate-300"
               >
                 Contact
               </Link>
