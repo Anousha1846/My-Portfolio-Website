@@ -7,6 +7,8 @@ import React from 'react'
 const AboutChooseMe = () => {
   return (
     <main>
+                <div className="bg-gradient-to-r from-sky-500 via-sky-300 to-sky-800 animate-pulse	 w-[100%]  py-[3px] bg"></div>     
+
           <div className="max-w-5xl  mx-auto px-8">
       <h1 className="m-4 pt-16 text-sky-900 font-extrabold text-center text-4xl sm:text-5xl ">WHY TO CHOOSE ME❔</h1>
       <SkillsHover items={ChooseMe} />
